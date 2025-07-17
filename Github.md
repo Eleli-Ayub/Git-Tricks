@@ -11,3 +11,7 @@
   ```
   gh repo list
   ```
+- clone repo
+  ```
+  gh repo clone <username>/reponame
+  ```
