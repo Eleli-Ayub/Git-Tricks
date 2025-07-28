@@ -15,3 +15,12 @@
   ```
   gh repo clone <username>/reponame
   ```
+- delete repo
+  if inside the repo
+  ```
+  gh repo delete --confirm 
+  ```
+  if outside the repo
+  ```
+  gh repo delete username/reponame -- confirm
+  ```
